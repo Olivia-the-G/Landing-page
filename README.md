@@ -10,6 +10,8 @@ Mini project for coding bootcamp
 
 ## Usage
 
+https://olivia-the-g.github.io/Landing-page/ 
+
 - The input boxs at the bottom of the page are where the user can enter in their name and email
 - They do not really get sent anywhere or get saved, it is just an excersise
 
